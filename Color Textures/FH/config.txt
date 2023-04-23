@@ -1,0 +1,48 @@
+{
+  "colorTex": {
+    "textures": [
+      {
+        "texture": "FH.png",
+        "ideal": 0.0
+      }
+    ],
+    "border_Bottom": {
+      "uvSize": 0.0,
+      "sizeMode": "Aspect",
+      "size": 0.5
+    },
+    "border_Top": {
+      "uvSize": 0.0,
+      "sizeMode": "Aspect",
+      "size": 0.5
+    },
+    "center": {
+      "mode": "Logo",
+      "sizeMode": "Aspect",
+      "size": 10.0,
+      "logoHeightPercent": 0.5,
+      "scaleLogoToFit": false,
+      "backgroundColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      }
+    },
+    "fixedWidth": false,
+    "fixedWidthValue": 1.0,
+    "flipToLight_X": true,
+    "flipToLight_Y": false,
+    "metalTexture": true,
+    "icon": null
+  },
+  "tags": [
+    "tank",
+    "cone",
+    "fairing"
+  ],
+  "multiple": false,
+  "segments": [],
+  "name": "FH",
+  "hideFlags": "None"
+}
