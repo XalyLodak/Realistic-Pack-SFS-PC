@@ -1,0 +1,10 @@
+{
+  "DisplayName": "Realistic Logos Pack",
+  "Version": "0.5BETA",
+  "Description": "A pack with Logos of real space agency or company, tell me on Twitter @xzekator or email with zekatoryt@gmail.com for add logos in the pack",
+  "Author": "XalyLodak France",
+  "ShowIcon": true,
+  "Icon": "ESA.png",
+  "name": ""
+}
+
